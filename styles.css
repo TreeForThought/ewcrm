@@ -1,0 +1,4 @@
+# assets/styles.css
+/* Minimal tweaks */
+.table-actions { white-space: nowrap; }
+.required::after { content:" *"; color: #dc3545; }
